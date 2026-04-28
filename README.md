@@ -6,7 +6,7 @@ Welcome to the Blogging Full-Stack App with JWT Authentication! This project is 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)                                                                                                                     
+- [Technologies Used](#technologies-used)                                                                                                                                                             
 - [Installation](#installation)                                                              
 - [Usage](#usage)       
 - [API Documentation](#api-documentation)                                        
