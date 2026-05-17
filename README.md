@@ -1,4 +1,4 @@
-# Blogging Full-Stack App with JWT Authentication
+                   # Blogging Full-Stack App with JWT Authentication
 
 Welcome to the Blogging Full-Stack App with JWT Authentication! This project is a robust, secure, and scalable application that showcases the integration of a modern frontend with a powerful backend. The app leverages password encryption and JSON Web Tokens (JWT) for authentication, ensuring secure user sessions.
 
